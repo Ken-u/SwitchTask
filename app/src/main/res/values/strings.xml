@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwitchTask</string>
+    <string name="float_text">TaskSwitcher</string>
+    <string name="hide">x</string>
+    <string name="pre">Pre</string>
+    <string name="next">Next</string>
+</resources>
